@@ -1,2 +1,2 @@
-this is css file created.
-This is my 1st css file.
+this is Javascript  file.
+This is my 1st javascript file.
